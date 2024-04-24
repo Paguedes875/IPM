@@ -10,7 +10,7 @@ _**How to run**_
 
 Clone this repo
 ```bash
-git clone git@github.com:Margarida-Lourenco/IPM-bake-off-2.git 
+git clone git@github.com:Paguedes875/IPM.git
 ```
 
 Followed by
